@@ -1,0 +1,1 @@
+# ts-nodejs-sequelize-pq-starter
